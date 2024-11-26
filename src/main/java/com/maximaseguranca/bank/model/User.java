@@ -8,7 +8,7 @@ public class User {
     private String numeroconta;
     private double saldo;
 
-    public User(String nome, int idade, String cpf, String numeroconta, double saldo) {
+    public User(String nome, int idade, String cpf, String numeroconta) {
         this.nome = nome;
         this.idade = idade;
         this.cpf = cpf;
